@@ -4,6 +4,7 @@ streamlit_env/
 .idea/
 .vscode/
 Dockerfile
+logging_file/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
