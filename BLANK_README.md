@@ -82,7 +82,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Nikhil-9981/AI_Agent_for_CSV_files/blob/main/images/Product_screenshot.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This project automates the extraction of meaningful information from structured datasets (CSV or Google Sheets). Users can upload data, select target columns, and define custom prompts to retrieve specific details. The AI agent performs web searches for each entity, parses the results using a language model (LLM), and organizes the information into a structured format.
+
+Key Features:
+
+   • Upload CSVs or connect to Google Sheets
+   • Define custom queries (e.g., "Find the contact email for {company}")
+   • Perform automated web searches using SerpAPI
+   • Parse results with GPT or Groq API
+   • Display and download extracted data in CSV format
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,49 +121,77 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+Follow these instructions to set up the project and start using the AI Agent for Structured Data Retrieval.
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. Python (version 3.7 or higher) :
+The project is developed in Python, so you will need to install Python 3.7 or later. You can download Python from the official website:
+ [Python Donwloads](https://www.python.org/downloads/)
+
+
+
+2. Docker (Optional for containerization)
+If you prefer using Docker to run the project in a containerized environment, ensure that Docker is installed.
+ [Docker Download](https://www.docker.com/get-started)
+
+3. External API Keys 
+    • GEMINI_API_KEY : [![YouTube][YouTube]][YouTube-url] [![GEMINI_API_KEY][GEMINI_API_KEY]][YouTube-url] 
+    • GROQ_API_KEY : [![YouTube][YouTube]][YouTube-url]  [![GROQ_API_KEY][GROQ_API_KEY]][YouTube-url] 
+    • GOOGLE_CSE_ID : [![YouTube][YouTube]][YouTube-url]  [![GOOGLE_CSE_ID][GOOGLE_CSE_ID]][YouTube-url] 
+    • GOOGLE_SEARCH_API_KEY : [![YouTube][YouTube]][YouTube-url]  [![GOOGLE_SEARCH_API_KEY][GOOGLE_SEARCH_API_KEY]][YouTube-url] 
+
+4. Text Editor or IDE
+ Use any code editor or IDE for Python development. Recommended options include:
+
+  • Visual Studio Code:  **[Download Visual Studio Code (VS Code)](https://code.visualstudio.com/Download)**
+  • PyCharm: - **[Download PyCharm](https://www.jetbrains.com/pycharm/download/)**
+
+
+
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key as above given 
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Nikhil-9981/AI_Agent_for_CSV_files.git
    ```
-3. Install NPM packages
+3. Create a virtual environment:
+                                    python -m venv <your env name> 
+  Here we are considering myenv : -
+  ```sh
+  python -m venv myenv
+
+  ```
+  •  Activate env :
+  ```sh 
+  myenv/Scripts/activate
+  ```
+
+4. Install requirements : 
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
+5. Run command to setup .env file or 
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+  python app_file/config.py
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+   you will get opitons to add your env files one by one :
+   c:\Users\NIKHIL SINGH\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{3D3E85A4-580D-4DF3-AAEB-CD066FF9059C}.png
+
+6. 
+  
+
 
 
 
 Commnads :
 
-python -m venv <your env name>
-1. python -m venv myenv
-2. myenv/Scripts/activate
-3. pip install -r requirements.txt
-4. python app_file/config.py
+ 
+ 
+
 -------- Set Envrionmental varialbles-------
 GEMINI_API_KEY= 
 GROQ_API_KEY= 
@@ -173,6 +210,7 @@ for creating docker image
 9. docker run --env-file .env -p 8501:8501 <agent_name>:latest
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
