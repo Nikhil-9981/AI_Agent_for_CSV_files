@@ -317,7 +317,7 @@ To start the app using Streamlit, run:
 
  
  
-## Optional Features 
+## Advance and  Optional Features 
 1. **Multi-Selection Column Functionality**: You can now perform search operations on multiple columns simultaneously, making it more efficient to retrieve relevant information from structured datasets.<br>
 
   ***Limitations:***<br>
@@ -328,6 +328,7 @@ To start the app using Streamlit, run:
 2. **Query Refinement using RAG (Retrieval-Augmented Generation)** : RAG enhances query responses by combining document retrieval and generative methods, ensuring more accurate and contextually relevant answers. This approach allows for better refinement of complex queries, improving response quality.
 
 3. **Advanced Error Handling**: Implemented error-handling mechanisms to catch exceptions during API calls or LLM queries, ensuring smooth operation even in the event of failures. Users are notified with clear, actionable messages, and automatic retries with exponential backoff are employed for transient errors.
+ 
 
 
 
