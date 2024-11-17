@@ -299,15 +299,15 @@ Don't forget to give the project a star! Thanks again!
  
  #
 <div style="text-align: center; font-size: 36px; font-weight: bold; color: #4CAF50; text-transform: uppercase; letter-spacing: 3px; animation: slideIn 2s ease-in-out;">
-    Get in Touch
+                                                                    Get in Touch
 </div>
 
 <div style="text-align: center; font-size: 20px; font-style: italic; color: #333; margin-top: 10px; animation: fadeIn 2s ease-in-out;">
-    I’d love to hear from you!
+                                                                  I’d love to hear from you!
 </div>
 
 <div style="text-align: center; font-size: 18px; color: #FF6347; margin-top: 20px;">
-    Nikhil Kumar Singh<br>
+                                                                      Nikhil Kumar Singh<br>
     <a href="https://www.linkedin.com/in/nikhil9981/" style="color: #4CAF50; text-decoration: none; font-weight: bold;">@nikhil9981</a><br>
     <a href="mailto:rathaurnikhil14@gmail.com" style="color: #4CAF50; text-decoration: none; font-weight: bold;">rathaurnikhil14@gmail.com</a><br><br>
     Project Link: 
@@ -321,7 +321,7 @@ Don't forget to give the project a star! Thanks again!
  
 
 <div style="text-align: center; font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px; animation: bounce 1.5s ease-in-out infinite;">
-    THANK YOU!
+                                                                          THANK YOU!
 </div>
 
  
