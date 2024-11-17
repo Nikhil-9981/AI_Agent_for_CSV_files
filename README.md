@@ -71,8 +71,7 @@
         <li><a href="#user-guide">User Guide</a></li>
         <li><a href="#Optional features">Optional Features </a></li>
       </ul>
-    </li>
-    
+    </li> 
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     
