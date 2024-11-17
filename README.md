@@ -362,9 +362,6 @@ Don't forget to give the project a star! Thanks again!
         Project Link: 
         <a href="https://github.com/Nikhil-9981/AI_Agent_for_CSV_files" style="color: #FF6347; font-weight: bold; text-decoration: none;">AI Agent for CSV Files</a>
     </p>
-    <p style="font-size: 18px; color: #4CAF50;">
-        (<a href="#readme-top" style="color: #FF6347; font-weight: bold;">Back to top</a>)
-    </p>
     <h1 style="font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px;">
         THANK YOU!
     </h1>
