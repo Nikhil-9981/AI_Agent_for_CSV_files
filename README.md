@@ -320,7 +320,7 @@ To start the app using Streamlit, run:
 ## Optional Features 
 1. **Multi-Selection Column Functionality**: You can now perform search operations on multiple columns simultaneously, making it more efficient to retrieve relevant information from structured datasets.<br>
 
-***Limitations:***<br>
+  ***Limitations:***<br>
 - Google API Free Tier: There is a limit of 1000 searches per day.<br>
 - Groq API Free Tier: You are restricted to using up to 200,000 tokens per day when using Llama 3.<br>
 - Google Generative Embeddings: Quota limits depend on the model used, with higher usage requiring requests for increased limits via Google Cloud Console.<br>
@@ -360,7 +360,7 @@ Don't forget to give the project a star! Thanks again!
 
 <div style="text-align: center; font-size: 18px; color: #FF6347; margin-top: 20px;">
     Nikhil Kumar Singh<br>
-    <a href="https://www.linkedin.com/in/nikhil9981/" style="color: #4CAF50; text-decoration: none; font-weight: bold;">@nikhil9981</a><br>
+    <a href="https://www.linkedin.com/in/nikhil9981/" style="color: #4CAF50; text-decoration: none; font-weight: bold;">nikhil9981</a><br>
     <a href="mailto:rathaurnikhil14@gmail.com" style="color: #4CAF50; text-decoration: none; font-weight: bold;">rathaurnikhil14@gmail.com</a><br><br>
     Project Link: 
     <a href="https://github.com/Nikhil-9981/AI_Agent_for_CSV_files" style="color: #FF6347; font-weight: bold; text-decoration: none;">AI Agent for CSV Files</a>
@@ -373,7 +373,7 @@ Don't forget to give the project a star! Thanks again!
  
 
 <div style="text-align: center; font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px; animation: bounce 1.5s ease-in-out infinite;">
-    THANK YOU!
+    **THANK YOU!**
 </div>
 
 <div style="text-align: center; font-size: 24px; font-style: italic; color: #555; animation: fadeIn 2s ease-in-out;">
