@@ -348,36 +348,31 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
 
- 
- #
-<div style="text-align: center; font-size: 36px; font-weight: bold; color: #4CAF50; text-transform: uppercase; letter-spacing: 3px; animation: slideIn 2s ease-in-out;">
-    Get in Touch
+# Contact
+
+<div align="center">
+    <h2 style="font-size: 36px; font-weight: bold; color: #4CAF50; text-transform: uppercase; letter-spacing: 3px;">
+        Get in Touch
+    </h2>
+    <p style="font-size: 20px; font-style: italic; color: #333;">I’d love to hear from you!</p>
+
+    <p style="font-size: 18px; color: #FF6347;">
+        Nikhil Kumar Singh<br>
+        <a href="https://www.linkedin.com/in/nikhil9981/" style="color: #4CAF50; text-decoration: none; font-weight: bold;">@nikhil9981</a><br>
+        <a href="mailto:rathaurnikhil14@gmail.com" style="color: #4CAF50; text-decoration: none; font-weight: bold;">rathaurnikhil14@gmail.com</a><br><br>
+        Project Link: 
+        <a href="https://github.com/Nikhil-9981/AI_Agent_for_CSV_files" style="color: #FF6347; font-weight: bold; text-decoration: none;">AI Agent for CSV Files</a>
+    </p>
+
+    <p style="font-size: 18px; color: #4CAF50;">
+        (<a href="#readme-top" style="color: #FF6347; font-weight: bold;">Back to top</a>)
+    </p>
+
+    <h1 style="font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px;">
+        THANK YOU!
+    </h1>
+
+    <p style="font-size: 24px; font-style: italic; color: #555;">
+        Your time and attention mean the world! ✨
+    </p>
 </div>
-
-<div style="text-align: center; font-size: 20px; font-style: italic; color: #333; margin-top: 10px; animation: fadeIn 2s ease-in-out;">
-    I’d love to hear from you!
-</div>
-
-<div style="text-align: center; font-size: 18px; color: #FF6347; margin-top: 20px;">
-    Nikhil Kumar Singh<br>
-    <a href="https://www.linkedin.com/in/nikhil9981/" style="color: #4CAF50; text-decoration: none; font-weight: bold;">nikhil9981</a><br>
-    <a href="mailto:rathaurnikhil14@gmail.com" style="color: #4CAF50; text-decoration: none; font-weight: bold;">rathaurnikhil14@gmail.com</a><br><br>
-    Project Link: 
-    <a href="https://github.com/Nikhil-9981/AI_Agent_for_CSV_files" style="color: #FF6347; font-weight: bold; text-decoration: none;">AI Agent for CSV Files</a>
-</div>
-
-<p align="right" style="font-size: 18px; color: #4CAF50;">
-    (<a href="#readme-top" style="color: #FF6347; font-weight: bold;">Back to top</a>)
-</p>
-
- 
-
-<div style="text-align: center; font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px; animation: bounce 1.5s ease-in-out infinite;">
-    THANK YOU!
-</div>
-
-<div style="text-align: center; font-size: 24px; font-style: italic; color: #555; animation: fadeIn 2s ease-in-out;">
-    Your time and attention mean the world! ✨
-</div>
-
- 
