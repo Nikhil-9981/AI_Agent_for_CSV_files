@@ -81,7 +81,7 @@
 ## About The Project
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Nikhil-9981/AI_Agent_for_CSV_files/main/images/Product_screenshot.png" alt="Product Name Screen Shot" width="900" />
+  <img src="https://raw.githubusercontent.com/Nikhil-9981/AI_Agent_for_CSV_files/main/images/Product_screenshot.png" alt="Product Name Screen Shot" width="1100" />
 </div>
 
 This Project enables users to upload CSV files or connect Google Sheets, define search queries, and retrieve specific information for entities in a selected column. It uses web scraping APIs to gather data, processes it with an LLM, and displays the results in a structured format for download or Google Sheets updates.
@@ -240,7 +240,7 @@ To start the app using Streamlit, run:
     streamlit run app_file/main.py
     ```
 
-      **---------------------------------------------------OR--------------------------------------------------------------**
+      **------------------------------------------------------------------OR----------------------------------------------------------------------------**
 
   **Optional** : <br>
   1. **Check docker is installed  or not** :
