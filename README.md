@@ -284,7 +284,7 @@ To start the app using Streamlit, run:
 
 1. **Click on the link to access the website :** [AI Agent for CSV File](https://agent-for-csv-dev.onrender.com)
  
-Upon clicking the link, you will be redirected to a webpage that appears as shown below:
+   Upon clicking the link, you will be redirected to a webpage that appears as shown below:
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Nikhil-9981/AI_Agent_for_CSV_files/main/images/website_display.jpeg" alt="Website display" width="600" />
@@ -292,7 +292,7 @@ Upon clicking the link, you will be redirected to a webpage that appears as show
 
 
 2. **Upload a CSV file from your device or provide the public URL of a Google Sheet:**  
-   After uploading the file or entering the URL, the interface will update to display your data:  
+     After uploading the file or entering the URL, the interface will update to display your data:  
     
   <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Nikhil-9981/AI_Agent_for_CSV_files/main/images/upload_csv.jpeg" alt="Upload CSV" width="600" />
