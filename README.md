@@ -373,7 +373,7 @@ Don't forget to give the project a star! Thanks again!
  
 
 <div style="text-align: center; font-size: 60px; font-weight: bold; color: #FF6347; text-transform: uppercase; letter-spacing: 5px; animation: bounce 1.5s ease-in-out infinite;">
-    **THANK YOU!**
+    THANK YOU!
 </div>
 
 <div style="text-align: center; font-size: 24px; font-style: italic; color: #555; animation: fadeIn 2s ease-in-out;">
