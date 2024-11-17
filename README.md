@@ -319,6 +319,7 @@ To start the app using Streamlit, run:
  
 ## Optional Features 
 1. **Multi-Selection Column Functionality**: You can now perform search operations on multiple columns simultaneously, making it more efficient to retrieve relevant information from structured datasets.<br>
+
 ***Limitations:***<br>
 - Google API Free Tier: There is a limit of 1000 searches per day.<br>
 - Groq API Free Tier: You are restricted to using up to 200,000 tokens per day when using Llama 3.<br>
