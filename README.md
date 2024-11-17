@@ -348,7 +348,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
 
-# Contact
+ #
 
 <div align="center">
     <h2 style="font-size: 36px; font-weight: bold; color: #4CAF50; text-transform: uppercase; letter-spacing: 3px;">
